@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YarinaLoboda/goit-react-hw-01-components/static/css/main.1b461bf7.chunk.css",
+    "main.js": "/YarinaLoboda/goit-react-hw-01-components/static/js/main.44afa537.chunk.js",
+    "main.js.map": "/YarinaLoboda/goit-react-hw-01-components/static/js/main.44afa537.chunk.js.map",
+    "runtime-main.js": "/YarinaLoboda/goit-react-hw-01-components/static/js/runtime-main.531e0a51.js",
+    "runtime-main.js.map": "/YarinaLoboda/goit-react-hw-01-components/static/js/runtime-main.531e0a51.js.map",
+    "static/js/2.7e186c47.chunk.js": "/YarinaLoboda/goit-react-hw-01-components/static/js/2.7e186c47.chunk.js",
+    "static/js/2.7e186c47.chunk.js.map": "/YarinaLoboda/goit-react-hw-01-components/static/js/2.7e186c47.chunk.js.map",
+    "index.html": "/YarinaLoboda/goit-react-hw-01-components/index.html",
+    "static/css/main.1b461bf7.chunk.css.map": "/YarinaLoboda/goit-react-hw-01-components/static/css/main.1b461bf7.chunk.css.map",
+    "static/js/2.7e186c47.chunk.js.LICENSE.txt": "/YarinaLoboda/goit-react-hw-01-components/static/js/2.7e186c47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531e0a51.js",
+    "static/js/2.7e186c47.chunk.js",
+    "static/css/main.1b461bf7.chunk.css",
+    "static/js/main.44afa537.chunk.js"
+  ]
+}
